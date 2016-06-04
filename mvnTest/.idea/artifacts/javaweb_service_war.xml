@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaweb-service:war">
+    <output-path>$PROJECT_DIR$/../javaweb/javaweb-service/target</output-path>
+    <root id="archive" name="javaweb-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="javaweb-service:war exploded" />
+    </root>
+  </artifact>
+</component>

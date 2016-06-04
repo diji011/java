@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api/api.iml" filepath="$PROJECT_DIR$/../api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb/javaweb.iml" filepath="$PROJECT_DIR$/../javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb/javaweb-api/javaweb-api.iml" filepath="$PROJECT_DIR$/../javaweb/javaweb-api/javaweb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb/javaweb-core/javaweb-core.iml" filepath="$PROJECT_DIR$/../javaweb/javaweb-core/javaweb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb/javaweb-core2/javaweb-core2.iml" filepath="$PROJECT_DIR$/../javaweb/javaweb-core2/javaweb-core2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb/javaweb-parent/javaweb-parent.iml" filepath="$PROJECT_DIR$/../javaweb/javaweb-parent/javaweb-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/test.iml" filepath="$PROJECT_DIR$/../test/test.iml" />
+    </modules>
+  </component>
+</project>
